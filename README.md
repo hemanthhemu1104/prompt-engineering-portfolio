@@ -23,5 +23,9 @@ In this portfolio, you’ll find **5 transformative case studies** where I’ve 
 🌟 **Ready to take your content, business, or digital presence to the next level with AI?**  
 Whether it's crafting the perfect marketing copy, refining your resume, or optimizing your app's experience, **I’m here to help**. Reach out for custom **AI prompt engineering** that delivers results!
 
-📩 **[Contact Me](hemanthhemu1104@gmail.com)** – Let’s create something amazing together!  
+
+📩 **[Email Me](mailto:hemanthhemu1104@gmail.com)**  
+📸 **[DM me on Instagram](https://instagram.com/heyyy.m_ant)**  
+
+Let’s create something amazing together!
 
