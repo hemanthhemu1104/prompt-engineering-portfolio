@@ -1,29 +1,33 @@
-# 🧠 Case Study 1: Marketing Tagline Booster
+##🧠 Case Study 1: AI-Powered Product Naming & Branding 🚀
+🎯 Client Goal:
+Create innovative, memorable, and brand-consistent product names for a new line of tech gadgets targeting millennials and Gen Z.
 
-🎯 Client Goal:  
-Create catchy taglines for a street food brand targeting Gen Z college students.
-
----
-
-## 🛑 Before Prompt:
+🛑 Before Prompt:
 Prompt:
-> Write a tagline for a food stall.
 
-AI Output: 
-> Delicious food at your service.
+Write a product name for a new tech gadget.
 
----
+AI Output:
 
-## ✅ After Prompt:
-Prompt: 
-> Act as a Gen Z creative marketer. Write 3 catchy and fun taglines (each under 10 words) for a college-friendly street food stall that sells spicy snacks.
+TechPro
 
-AI Output: 
-- Snack Loud. Snack Proud.  
-- Too Hot to Handle, Too Good to Miss.  
-- Messy Hands, Happy Soul.
+✅ After Prompt:
+Prompt:
 
----
+Act as a branding expert. Generate 5 innovative and catchy product names for a high-tech gadget designed for millennials and Gen Z, focusing on innovation and ease of use.
 
-## 💡 Why This Worked:
-By clearly defining the role (Gen Z marketer), style (catchy + fun), and target audience, the improved prompt directed the AI to deliver creative and tone-appropriate content. These taglines now appeal to the brand’s exact customers.
+AI Output:
+
+NexGen Pulse
+
+VibeX
+
+Quantum Spark
+
+ZenoTech
+
+HyperGlide
+
+💡 Why This Worked:
+The improved prompt specifies the target audience (millennials and Gen Z), product type (tech gadgets), and desired brand values (innovation and ease of use). This helps generate names that resonate with the right audience while being creative and catchy.
+
