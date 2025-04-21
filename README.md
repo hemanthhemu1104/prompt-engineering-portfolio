@@ -12,10 +12,10 @@ In this portfolio, you’ll find **5 transformative case studies** where I’ve 
 
 ## 🔍 Case Studies
 
-1. **[Marketing Tagline Booster](./case-study-1.md)**: Creating compelling taglines that captivate your audience and elevate your brand.
-2. **[Resume Bullet Point Enhancer](./case-study-2.md)**: Transforming basic resume bullet points into impactful, professional statements.
-3. **[Reel Caption Generator](./case-study-3.md)**: Crafting eye-catching captions for social media reels that spark engagement.
-4. **[Email Subject Line Optimizer](./case-study-4.md)**: Designing subject lines that skyrocket email open rates and drive action.
+1. **[AI-Powered Product Naming & Branding](./case-study-1.md)**: Creating compelling taglines that captivate your audience and elevate your brand.
+2. **[AI-Driven Personalized Email Campaign](./case-study-2.md)**: Transforming basic resume bullet points into impactful, professional statements.
+3. **[Dynamic Social Media Strategy & Content Creation](./case-study-3.md)**: Crafting eye-catching captions for social media reels that spark engagement.
+4. **[Advanced Market Research & Competitor Analysis](./case-study-4.md)**: Designing subject lines that skyrocket email open rates and drive action.
 5. **[foodfLICKS FAQ Generator](./case-study-5.md)**: Building an AI-powered FAQ system for a seamless customer experience in food delivery.
 
 ---
