@@ -1,29 +1,31 @@
-# 🧠 Case Study 3: Reel Caption Generator for foodfLICKS
+# 🧠 Case Study 3: **Dynamic Social Media Strategy & Content Creation** 📱
 
 **🎯 Client Goal:**  
-Generate engaging, Gen Z-style captions for short food reels to drive interaction and shares.
+Create a dynamic social media strategy for a brand launching a new line of eco-friendly fashion, targeting environmentally-conscious millennials.
 
 ---
 
-## 🛑 Before Prompt:
+## 🛑 **Before Prompt:**  
 **Prompt:**  
-> Write a caption for a snack video.
+> Write a social media post for an eco-friendly fashion brand.
 
 **AI Output:**  
-> Try this tasty snack now.
+> Check out our new eco-friendly clothing line!
 
 ---
 
-## ✅ After Prompt:
+## ✅ **After Prompt:**  
 **Prompt:**  
-> Act as a foodie content creator on Instagram targeting Gen Z. Write 3 short, funny, and viral-style captions for a 10-second reel showing a spicy loaded fries recipe.
+> Create 3 engaging social media posts for an eco-friendly fashion brand targeting environmentally-conscious millennials. Each post should include a strong call to action and relevant hashtags.
 
 **AI Output:**  
-- Warning: These fries slap harder than Monday mornings 😤🍟  
-- Spice level: Regret. Crunch level: MAX.  
-- POV: You said “just one bite” and finished the whole box 🔥
+- “Fashion with a Conscience. 🌱 Ready to wear what’s good for you and the planet? #EcoFriendlyFashion #SustainableStyle #ConsciousLiving”  
+- “Change the world, one outfit at a time. 🌍 Shop now and embrace sustainable fashion. 🌿 #EcoChic #SustainabilityMatters #GreenFashion”  
+- “Style that speaks volumes. 📢 Discover our eco-friendly collection now. 🌱 #SustainableFashion #EcoWarrior #FashionRevolution”
 
 ---
 
-## 💡 Why This Worked:
-The improved prompt gave the AI a **persona**, **tone**, **platform**, and **specific reel context**. This led to fun, relevant captions that matched the vibe of foodfLICKS content.
+## 💡 **Why This Worked:**  
+The refined prompt focuses on creating engaging and action-driven posts, incorporating relevant hashtags to boost visibility. The language targets millennials by emphasizing the brand’s commitment to sustainability while encouraging interaction.
+
+---
